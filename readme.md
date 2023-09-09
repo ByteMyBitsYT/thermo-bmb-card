@@ -87,3 +87,13 @@ Contributions are welcome! Feel free to open an issue or submit a pull request.
 This project is open-source and available under the MIT License.
 
 Have fun customizing your card, and don't hesitate to share your improvements!
+
+## Screenshots
+
+![Screenshot 1](./thermo-bmb-screen%20(1).jpg)
+![Screenshot 2](./thermo-bmb-screen%20(2).jpg)
+![Screenshot 3](./thermo-bmb-screen%20(3).jpg)
+
+## Animated Preview
+
+![Animated Preview](./giffy-gif.gif)
